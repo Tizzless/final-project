@@ -1,0 +1,43 @@
+/* COGS3 final portfolio specific styles go here. */
+#title{
+    background-color:#85bfdd;
+}
+h1{
+    font-family: 'Nerko One', sans-serif;
+    font-size: 3rem;
+    line-height:1.5;
+    font-weight: bold;
+} 
+.container-fluid {
+    padding:3% 15%;
+}
+.navbar{
+    padding: 0 0 4.5rem;
+    color: black;
+}
+#body{
+    font:'oswald' ;
+    font-size: 14rem;
+}
+.nav-item{
+padding: 0 18px;
+color: black;
+}
+.navbar-link{
+    font-family: 'Oswald',sans-serif;
+    font-size:1.5rem
+}
+.download-button{
+    margin: 5% 3% 5% 0;
+}
+#StudyBuddy{
+    padding: 7% 15% ;
+    background-color:#d7ebf5;
+}
+p{
+    color: rgba(0, 0, 0, 0.754);
+}
+#Figma{
+    padding: 7% 15%;
+    background-color:#85bfdd ;
+}
